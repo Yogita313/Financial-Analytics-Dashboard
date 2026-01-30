@@ -49,4 +49,5 @@ Financial analysts and decision-makers often struggle to compare companies acros
 - SQL (Data Cleaning and Preparation)
 
 7. Screenshot
+   https://github.com/Yogita313/Financial-Analytics-Dashboard/blob/main/Financial%20Analystics%20Dashborads%20overview.png
    
